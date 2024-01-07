@@ -1,0 +1,3 @@
+name: my_environment
+python_version: 3.11
+requirements_file: requirements.txt
